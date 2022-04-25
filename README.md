@@ -18,11 +18,12 @@ I approached the need to increase the layers of security by testing and checking
 
 ### How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
-
+To ensure the code and software application were functional and secure I re-ran the sorfware after I made chanages. I was running it to make sure that it gave me the expected results without any errors or unexpected outcomes. After refactoring the code, I did another dependecy check, using the dependecy check tool, to make sure that no new vulnerabilities were introduced.
 
 ### What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
-
+In the future I will use the dependency check tool that I learned while working on during the course as it will be helpful in finding potential vulnerabilities in the future coding projects. In addition I also used websites like stack overflow to find ways of overcoming technical difficulties with my code that result in undesired results.
 
 ### Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
+There are two things that I would like to showcase to an employer from this project. The first is my assessment of security vulnerabilities and my mitigation plans for handling those vulnerabilities. The second thing that I would showcase is the hash function that I created for encrypting information.
